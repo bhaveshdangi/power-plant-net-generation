@@ -1,0 +1,29 @@
+{
+  "name": "power-plant-net-generation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "node --max-old-space-size=4096 dist/server.js",
+    "dev": "concurrently \"npx tsc --watch\" \"nodemon -q dist/server.js\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "exceljs": "^4.3.0",
+    "express": "^4.17.3",
+    "lowdb": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/lowdb": "^1.0.9",
+    "@types/node": "^17.0.25",
+    "concurrently": "^7.1.0",
+    "nodemon": "^2.0.15",
+    "typescript": "^4.6.3"
+  }
+}

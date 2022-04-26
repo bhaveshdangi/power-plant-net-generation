@@ -1,0 +1,42 @@
+<!-- app.component.html -->
+<div class="container">
+
+    <h1>Google Map Net Generation</h1>
+
+    <div class="form-group">
+        <label>Enter State</label>
+        <input type="text" class="form-control" (keydown.enter)="$event.preventDefault()"
+            placeholder="Search State" autocorrect="off" autocapitalize="off" spellcheck="off" type="text"
+            #search>
+    </div>
+
+    <agm-map [latitude]="latitude" [longitude]="longitude" [zoom]="zoom">
+        <ng-container *ngIf="!isState">
+            <agm-marker [latitude]="latitude" [longitude]="longitude" [markerDraggable]="true">
+            </agm-marker>
+        </ng-container>
+        <ng-container *ngIf="isState">
+            <agm-marker *ngFor="let marker of plantMarkers" [latitude]="marker.latitude" [longitude]="marker.longitude"
+                [markerDraggable]="true">
+                <agm-info-window #infoWindow>
+                    <div class="row pb-2"
+                        style="width: 230px; font-weight: 600; font-size: 14px; text-decoration: underline;">
+                        <div class="col text-uppercase">{{marker.name}}</div>
+                    </div>
+                    <div class="row" *ngIf="marker.netGeneration">
+                        <div class="col-8">Net Generation : </div>
+                        <div class="col">{{marker.netGeneration}}</div>
+                    </div>
+                    <div class="row" *ngIf="marker.percentage">
+                        <div class="col-8">Net Generation % : </div>
+                        <div class="col">{{marker.percentage}}</div>
+                    </div>
+                </agm-info-window>
+            </agm-marker>
+        </ng-container>
+    </agm-map>
+
+    <h5>Address: {{address}}</h5>
+    <div>Latitude: {{latitude}}</div>
+    <div>Longitude: {{longitude}}</div>
+</div>

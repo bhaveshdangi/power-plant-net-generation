@@ -1,0 +1,2084 @@
+{
+  "netGenerations": [
+    {
+      "plants": [
+        {
+          "name": "Southcentral Power Project",
+          "netGeneration": 1645346,
+          "percentage": "0.00%",
+          "latitude": 61.167417,
+          "longitude": -149.905304
+        },
+        {
+          "name": "Eklutna Generation Station",
+          "netGeneration": 1458170,
+          "percentage": "0.00%",
+          "latitude": 61.457778,
+          "longitude": -149.351389
+        },
+        {
+          "name": "North Pole",
+          "netGeneration": 1092136,
+          "percentage": "0.00%",
+          "latitude": 64.7356,
+          "longitude": -147.3481
+        },
+        {
+          "name": "Bradley Lake",
+          "netGeneration": 933270,
+          "percentage": "100.00%",
+          "latitude": 59.77862,
+          "longitude": -150.94015
+        },
+        {
+          "name": "George M Sullivan Generation Plant 2",
+          "netGeneration": 894986,
+          "percentage": "0.00%",
+          "latitude": 61.229713,
+          "longitude": -149.716744
+        }
+      ],
+      "state": "AK"
+    },
+    {
+      "plants": [
+        {
+          "name": "Browns Ferry",
+          "netGeneration": 57549700,
+          "percentage": "100.00%",
+          "latitude": 34.7042,
+          "longitude": -87.1189
+        },
+        {
+          "name": "James H Miller Jr",
+          "netGeneration": 32889608.98,
+          "percentage": "0.00%",
+          "latitude": 33.6319,
+          "longitude": -87.0597
+        },
+        {
+          "name": "Joseph M Farley",
+          "netGeneration": 29551594,
+          "percentage": "100.00%",
+          "latitude": 31.2231,
+          "longitude": -85.1116
+        },
+        {
+          "name": "Plant H. Allen Franklin",
+          "netGeneration": 25274334,
+          "percentage": "0.00%",
+          "latitude": 32.6078,
+          "longitude": -85.0975
+        },
+        {
+          "name": "Barry",
+          "netGeneration": 20998291.94,
+          "percentage": "0.00%",
+          "latitude": 31.0069,
+          "longitude": -88.0103
+        }
+      ],
+      "state": "AL"
+    },
+    {
+      "plants": [
+        {
+          "name": "Arkansas Nuclear One",
+          "netGeneration": 30126098,
+          "percentage": "100.00%",
+          "latitude": 35.311,
+          "longitude": -93.2351
+        },
+        {
+          "name": "Union Power Station",
+          "netGeneration": 19241420,
+          "percentage": "0.00%",
+          "latitude": 33.296146,
+          "longitude": -92.589364
+        },
+        {
+          "name": "White Bluff",
+          "netGeneration": 7909816.01,
+          "percentage": "0.00%",
+          "latitude": 34.4228,
+          "longitude": -92.1406
+        },
+        {
+          "name": "John W. Turk Jr. Power Plant",
+          "netGeneration": 7038507.99,
+          "percentage": "0.00%",
+          "latitude": 33.649722,
+          "longitude": -93.811944
+        },
+        {
+          "name": "Plum Point Energy Station",
+          "netGeneration": 6477331.96,
+          "percentage": "0.00%",
+          "latitude": 35.6644,
+          "longitude": -89.9489
+        }
+      ],
+      "state": "AR"
+    },
+    {
+      "plants": [
+        {
+          "name": "Palo Verde",
+          "netGeneration": 63104866,
+          "percentage": "100.00%",
+          "latitude": 33.3881,
+          "longitude": -112.8617
+        },
+        {
+          "name": "Gila River Power Station",
+          "netGeneration": 16974996,
+          "percentage": "0.00%",
+          "latitude": 32.975,
+          "longitude": -112.6944
+        },
+        {
+          "name": "Springerville Generating Station",
+          "netGeneration": 15112240.19,
+          "percentage": "0.33%",
+          "latitude": 34.3186,
+          "longitude": -109.1639
+        },
+        {
+          "name": "Mesquite Generating Station",
+          "netGeneration": 14552672,
+          "percentage": "0.00%",
+          "latitude": 33.345,
+          "longitude": -112.864167
+        },
+        {
+          "name": "Santan",
+          "netGeneration": 12028364,
+          "percentage": "0.00%",
+          "latitude": 33.3325,
+          "longitude": -111.7503
+        }
+      ],
+      "state": "AZ"
+    },
+    {
+      "plants": [
+        {
+          "name": "Diablo Canyon",
+          "netGeneration": 32517396,
+          "percentage": "100.00%",
+          "latitude": 35.211536,
+          "longitude": -120.855542
+        },
+        {
+          "name": "Moss Landing Powner Plant",
+          "netGeneration": 10446064,
+          "percentage": "0.00%",
+          "latitude": 36.804837,
+          "longitude": -121.782241
+        },
+        {
+          "name": "Geysers Unit 5-20",
+          "netGeneration": 9219746,
+          "percentage": "100.00%",
+          "latitude": 38.777,
+          "longitude": -122.745
+        },
+        {
+          "name": "Pastoria Energy Facility",
+          "netGeneration": 8682452,
+          "percentage": "0.00%",
+          "latitude": 34.9556,
+          "longitude": -118.844
+        },
+        {
+          "name": "Delta Energy Center, LLC",
+          "netGeneration": 7720426,
+          "percentage": "0.00%",
+          "latitude": 38.0169,
+          "longitude": -121.8439
+        }
+      ],
+      "state": "CA"
+    },
+    {
+      "plants": [
+        {
+          "name": "Craig",
+          "netGeneration": 13958641.93,
+          "percentage": "0.00%",
+          "latitude": 40.4627,
+          "longitude": -107.5912
+        },
+        {
+          "name": "Comanche (470)",
+          "netGeneration": 8299827.98,
+          "percentage": "0.00%",
+          "latitude": 38.2081,
+          "longitude": -104.5747
+        },
+        {
+          "name": "Cherokee",
+          "netGeneration": 7658448,
+          "percentage": "0.00%",
+          "latitude": 39.807275,
+          "longitude": -104.964548
+        },
+        {
+          "name": "Fort St. Vrain",
+          "netGeneration": 6750500,
+          "percentage": "0.00%",
+          "latitude": 40.2461,
+          "longitude": -104.8742
+        },
+        {
+          "name": "Pawnee",
+          "netGeneration": 6135905.91,
+          "percentage": "0.00%",
+          "latitude": 40.2217,
+          "longitude": -103.6803
+        }
+      ],
+      "state": "CO"
+    },
+    {
+      "plants": [
+        {
+          "name": "Millstone",
+          "netGeneration": 31429710,
+          "percentage": "100.00%",
+          "latitude": 41.3107,
+          "longitude": -72.1677
+        },
+        {
+          "name": "Lake Road Generating Company",
+          "netGeneration": 11189180,
+          "percentage": "0.00%",
+          "latitude": 41.872043,
+          "longitude": -71.895799
+        },
+        {
+          "name": "CPV Towantic Energy Center",
+          "netGeneration": 10647453.93,
+          "percentage": "0.00%",
+          "latitude": 41.481243,
+          "longitude": -73.123108
+        },
+        {
+          "name": "Bridgeport Harbor Station",
+          "netGeneration": 7208717.99,
+          "percentage": "0.00%",
+          "latitude": 41.1706,
+          "longitude": -73.1844
+        },
+        {
+          "name": "Milford Power Company LLC",
+          "netGeneration": 6992382,
+          "percentage": "0.00%",
+          "latitude": 41.224355,
+          "longitude": -73.099728
+        }
+      ],
+      "state": "CT"
+    },
+    {
+      "plants": [
+        {
+          "name": "AOC, Capitol Power Plant",
+          "netGeneration": 113297.8,
+          "percentage": "0.00%",
+          "latitude": 38.882704,
+          "longitude": -77.007443
+        },
+        {
+          "name": "DC Water CHP",
+          "netGeneration": 111346,
+          "percentage": "0.00%",
+          "latitude": 38.820556,
+          "longitude": -77.018333
+        },
+        {
+          "name": "GSA Central Heating",
+          "netGeneration": 99007.44,
+          "percentage": "0.00%",
+          "latitude": 38.885709,
+          "longitude": -77.028373
+        },
+        {
+          "name": "JBAB - Washington DC",
+          "netGeneration": 18044,
+          "percentage": "100.00%",
+          "latitude": 38.852655,
+          "longitude": -77.009291
+        },
+        {
+          "name": "Nationals",
+          "netGeneration": 3714,
+          "percentage": "100.00%",
+          "latitude": 38.874155,
+          "longitude": -77.006676
+        }
+      ],
+      "state": "DC"
+    },
+    {
+      "plants": [
+        {
+          "name": "Hay Road",
+          "netGeneration": 3397686.04,
+          "percentage": "0.00%",
+          "latitude": 39.7436,
+          "longitude": -75.5072
+        },
+        {
+          "name": "Garrison Energy Center",
+          "netGeneration": 3159394,
+          "percentage": "0.00%",
+          "latitude": 39.187195,
+          "longitude": -75.499396
+        },
+        {
+          "name": "Delaware City Refinery",
+          "netGeneration": 2298878,
+          "percentage": "0.00%",
+          "latitude": 39.5871,
+          "longitude": -75.6343
+        },
+        {
+          "name": "Red Lion Energy Center",
+          "netGeneration": 409492,
+          "percentage": "0.00%",
+          "latitude": 39.610083,
+          "longitude": -75.62974
+        },
+        {
+          "name": "Edge Moor",
+          "netGeneration": 350957.99,
+          "percentage": "0.00%",
+          "latitude": 39.73886,
+          "longitude": -75.50384
+        }
+      ],
+      "state": "DE"
+    },
+    {
+      "plants": [
+        {
+          "name": "West County Energy Center",
+          "netGeneration": 39529048.61,
+          "percentage": "0.00%",
+          "latitude": 26.6986,
+          "longitude": -80.3747
+        },
+        {
+          "name": "Turkey Point",
+          "netGeneration": 38008828.09,
+          "percentage": "66.40%",
+          "latitude": 25.4356,
+          "longitude": -80.3308
+        },
+        {
+          "name": "St Lucie",
+          "netGeneration": 33600740,
+          "percentage": "100.00%",
+          "latitude": 27.348611,
+          "longitude": -80.246389
+        },
+        {
+          "name": "Crystal River",
+          "netGeneration": 29895447.97,
+          "percentage": "0.00%",
+          "latitude": 28.9656,
+          "longitude": -82.6977
+        },
+        {
+          "name": "Hines Energy Complex",
+          "netGeneration": 23172820.11,
+          "percentage": "0.00%",
+          "latitude": 27.788215,
+          "longitude": -81.869983
+        }
+      ],
+      "state": "FL"
+    },
+    {
+      "plants": [
+        {
+          "name": "Vogtle",
+          "netGeneration": 37715636,
+          "percentage": "100.00%",
+          "latitude": 33.1427,
+          "longitude": -81.7625
+        },
+        {
+          "name": "Jack McDonough",
+          "netGeneration": 37421290,
+          "percentage": "0.00%",
+          "latitude": 33.8239,
+          "longitude": -84.4758
+        },
+        {
+          "name": "Edwin I Hatch",
+          "netGeneration": 27935758,
+          "percentage": "100.00%",
+          "latitude": 31.9342,
+          "longitude": -82.3447
+        },
+        {
+          "name": "McIntosh Combined Cycle Facility",
+          "netGeneration": 17242830,
+          "percentage": "0.00%",
+          "latitude": 32.3478,
+          "longitude": -81.1817
+        },
+        {
+          "name": "Wansley CC (55965)",
+          "netGeneration": 16811774,
+          "percentage": "0.00%",
+          "latitude": 33.406385,
+          "longitude": -85.036988
+        }
+      ],
+      "state": "GA"
+    },
+    {
+      "plants": [
+        {
+          "name": "Kahe Generating Station",
+          "netGeneration": 4756090,
+          "percentage": "0.00%",
+          "latitude": 21.356395,
+          "longitude": -158.128853
+        },
+        {
+          "name": "AES Hawaii",
+          "netGeneration": 2368017.98,
+          "percentage": "0.00%",
+          "latitude": 21.303419,
+          "longitude": -158.106528
+        },
+        {
+          "name": "Kalaeloa Cogen Plant",
+          "netGeneration": 2222653.99,
+          "percentage": "0.00%",
+          "latitude": 21.302106,
+          "longitude": -158.096318
+        },
+        {
+          "name": "Waiau Generating Station",
+          "netGeneration": 1473734,
+          "percentage": "0.00%",
+          "latitude": 21.388997,
+          "longitude": -157.961518
+        },
+        {
+          "name": "Maalaea",
+          "netGeneration": 1099440,
+          "percentage": "0.00%",
+          "latitude": 20.80117,
+          "longitude": -156.492981
+        }
+      ],
+      "state": "HI"
+    },
+    {
+      "plants": [
+        {
+          "name": "Walter Scott Jr. Energy Center",
+          "netGeneration": 9906602.09,
+          "percentage": "0.00%",
+          "latitude": 41.18,
+          "longitude": -95.8408
+        },
+        {
+          "name": "Duane Arnold Energy Center",
+          "netGeneration": 5809726,
+          "percentage": "100.00%",
+          "latitude": 42.1011,
+          "longitude": -91.7781
+        },
+        {
+          "name": "Marshalltown Generating Station",
+          "netGeneration": 5354360,
+          "percentage": "0.00%",
+          "latitude": 42.043333,
+          "longitude": -92.872778
+        },
+        {
+          "name": "Emery Station",
+          "netGeneration": 5137490,
+          "percentage": "0.00%",
+          "latitude": 43.094,
+          "longitude": -93.292222
+        },
+        {
+          "name": "Ottumwa",
+          "netGeneration": 5041219.95,
+          "percentage": "0.00%",
+          "latitude": 41.0961,
+          "longitude": -92.555833
+        }
+      ],
+      "state": "IA"
+    },
+    {
+      "plants": [
+        {
+          "name": "Brownlee",
+          "netGeneration": 4130042,
+          "percentage": "100.00%",
+          "latitude": 44.8367,
+          "longitude": -116.8975
+        },
+        {
+          "name": "Rathdrum Power, LLC",
+          "netGeneration": 3377684,
+          "percentage": "0.00%",
+          "latitude": 47.7858,
+          "longitude": -116.9203
+        },
+        {
+          "name": "Dworshak",
+          "netGeneration": 3275572,
+          "percentage": "100.00%",
+          "latitude": 46.5143,
+          "longitude": -116.2977
+        },
+        {
+          "name": "Langley Gulch Power Plant",
+          "netGeneration": 3042902,
+          "percentage": "0.00%",
+          "latitude": 43.904444,
+          "longitude": -116.819722
+        },
+        {
+          "name": "Cabinet Gorge",
+          "netGeneration": 2005412,
+          "percentage": "100.00%",
+          "latitude": 48.084444,
+          "longitude": -116.053056
+        }
+      ],
+      "state": "ID"
+    },
+    {
+      "plants": [
+        {
+          "name": "Braidwood Generation Station",
+          "netGeneration": 40743352,
+          "percentage": "100.00%",
+          "latitude": 41.2435,
+          "longitude": -88.2286
+        },
+        {
+          "name": "LaSalle Generating Station",
+          "netGeneration": 39391368,
+          "percentage": "100.00%",
+          "latitude": 41.245498,
+          "longitude": -88.669066
+        },
+        {
+          "name": "Byron Generating Station",
+          "netGeneration": 39049788,
+          "percentage": "100.00%",
+          "latitude": 42.0742,
+          "longitude": -89.2819
+        },
+        {
+          "name": "Quad Cities Generating Station",
+          "netGeneration": 31424890,
+          "percentage": "100.00%",
+          "latitude": 41.726111,
+          "longitude": -90.310278
+        },
+        {
+          "name": "Dresden Generating Station",
+          "netGeneration": 30957776,
+          "percentage": "100.00%",
+          "latitude": 41.39,
+          "longitude": -88.27
+        }
+      ],
+      "state": "IL"
+    },
+    {
+      "plants": [
+        {
+          "name": "Gibson",
+          "netGeneration": 23568386.37,
+          "percentage": "0.00%",
+          "latitude": 38.372222,
+          "longitude": -87.765833
+        },
+        {
+          "name": "Lawrenceburg Energy Facility",
+          "netGeneration": 17104680,
+          "percentage": "0.00%",
+          "latitude": 39.0911,
+          "longitude": -84.8669
+        },
+        {
+          "name": "IPL - Petersburg Generating Station",
+          "netGeneration": 12282480.09,
+          "percentage": "0.00%",
+          "latitude": 38.5281,
+          "longitude": -87.2525
+        },
+        {
+          "name": "IPL - Eagle Valley Generating Station",
+          "netGeneration": 10186736,
+          "percentage": "0.00%",
+          "latitude": 39.48517,
+          "longitude": -86.4183
+        },
+        {
+          "name": "St. Joseph Energy Center LLC",
+          "netGeneration": 9474392,
+          "percentage": "0.00%",
+          "latitude": 41.698992,
+          "longitude": -86.479699
+        }
+      ],
+      "state": "IN"
+    },
+    {
+      "plants": [
+        {
+          "name": "Wolf Creek Generating Station",
+          "netGeneration": 21164964,
+          "percentage": "100.00%",
+          "latitude": 38.23926,
+          "longitude": -95.68978
+        },
+        {
+          "name": "Jeffrey Energy Center",
+          "netGeneration": 13344321.94,
+          "percentage": "0.00%",
+          "latitude": 39.286453,
+          "longitude": -96.117231
+        },
+        {
+          "name": "La Cygne",
+          "netGeneration": 12065318.02,
+          "percentage": "0.00%",
+          "latitude": 38.3481,
+          "longitude": -94.6456
+        },
+        {
+          "name": "Lawrence Energy Center",
+          "netGeneration": 3867513.9,
+          "percentage": "0.00%",
+          "latitude": 39.0072,
+          "longitude": -95.269167
+        },
+        {
+          "name": "Flat Ridge 2 Wind Energy LLC",
+          "netGeneration": 3550318,
+          "percentage": "100.00%",
+          "latitude": 37.366509,
+          "longitude": -98.261077
+        }
+      ],
+      "state": "KS"
+    },
+    {
+      "plants": [
+        {
+          "name": "Ghent",
+          "netGeneration": 19821437.94,
+          "percentage": "0.00%",
+          "latitude": 38.7497,
+          "longitude": -85.035
+        },
+        {
+          "name": "Trimble County",
+          "netGeneration": 18025183.92,
+          "percentage": "0.00%",
+          "latitude": 38.5847,
+          "longitude": -85.4117
+        },
+        {
+          "name": "Paradise",
+          "netGeneration": 14730312,
+          "percentage": "0.00%",
+          "latitude": 37.2608,
+          "longitude": -86.9783
+        },
+        {
+          "name": "H L Spurlock",
+          "netGeneration": 14588572.04,
+          "percentage": "0.00%",
+          "latitude": 38.7,
+          "longitude": -83.8181
+        },
+        {
+          "name": "Mill Creek",
+          "netGeneration": 13295938.02,
+          "percentage": "0.00%",
+          "latitude": 38.0525,
+          "longitude": -85.9103
+        }
+      ],
+      "state": "KY"
+    },
+    {
+      "plants": [
+        {
+          "name": "Ninemile Point",
+          "netGeneration": 18980784.03,
+          "percentage": "0.00%",
+          "latitude": 29.9472,
+          "longitude": -90.1458
+        },
+        {
+          "name": "Waterford 3",
+          "netGeneration": 17922434,
+          "percentage": "100.00%",
+          "latitude": 29.995267,
+          "longitude": -90.471581
+        },
+        {
+          "name": "River Bend",
+          "netGeneration": 15976740,
+          "percentage": "100.00%",
+          "latitude": 30.757,
+          "longitude": -91.3327
+        },
+        {
+          "name": "St. Charles Power Station",
+          "netGeneration": 11701280,
+          "percentage": "0.00%",
+          "latitude": 30.01,
+          "longitude": -90.460833
+        },
+        {
+          "name": "Taft Cogeneration Facility",
+          "netGeneration": 11090426.1,
+          "percentage": "0.00%",
+          "latitude": 29.9888,
+          "longitude": -90.4599
+        }
+      ],
+      "state": "LA"
+    },
+    {
+      "plants": [
+        {
+          "name": "Fore River Energy Center",
+          "netGeneration": 6648645.93,
+          "percentage": "0.00%",
+          "latitude": 42.2422,
+          "longitude": -70.9661
+        },
+        {
+          "name": "Mystic",
+          "netGeneration": 3769378,
+          "percentage": "0.00%",
+          "latitude": 42.3908,
+          "longitude": -71.0675
+        },
+        {
+          "name": "Bellingham Power Generation LLC",
+          "netGeneration": 3058584,
+          "percentage": "0.00%",
+          "latitude": 42.110577,
+          "longitude": -71.453468
+        },
+        {
+          "name": "Blackstone Power Generation LLC",
+          "netGeneration": 2787134,
+          "percentage": "0.00%",
+          "latitude": 42.059876,
+          "longitude": -71.515811
+        },
+        {
+          "name": "Kendall Green Energy LLC",
+          "netGeneration": 2741664,
+          "percentage": "0.00%",
+          "latitude": 42.3633,
+          "longitude": -71.0792
+        }
+      ],
+      "state": "MA"
+    },
+    {
+      "plants": [
+        {
+          "name": "Calvert Cliffs Nuclear Power Plant",
+          "netGeneration": 30161114,
+          "percentage": "100.00%",
+          "latitude": 38.4344,
+          "longitude": -76.4417
+        },
+        {
+          "name": "Keys Energy Center",
+          "netGeneration": 9898188,
+          "percentage": "0.00%",
+          "latitude": 38.695519,
+          "longitude": -76.827785
+        },
+        {
+          "name": "CPV St. Charles Energy Center",
+          "netGeneration": 7587632,
+          "percentage": "0.00%",
+          "latitude": 38.5686,
+          "longitude": -76.8919
+        },
+        {
+          "name": "Wildcat Point Generation Facility",
+          "netGeneration": 6046194,
+          "percentage": "0.00%",
+          "latitude": 39.719364,
+          "longitude": -76.161625
+        },
+        {
+          "name": "Conowingo",
+          "netGeneration": 3346338,
+          "percentage": "100.00%",
+          "latitude": 39.6572,
+          "longitude": -76.1752
+        }
+      ],
+      "state": "MD"
+    },
+    {
+      "plants": [
+        {
+          "name": "Westbrook Energy Center",
+          "netGeneration": 2022058,
+          "percentage": "0.00%",
+          "latitude": 43.6575,
+          "longitude": -70.375
+        },
+        {
+          "name": "Great Lakes Hydro America - ME",
+          "netGeneration": 1325002,
+          "percentage": "100.00%",
+          "latitude": 45.647179,
+          "longitude": -68.704368
+        },
+        {
+          "name": "Rumford Cogeneration",
+          "netGeneration": 1084418,
+          "percentage": "0.00%",
+          "latitude": 44.5513,
+          "longitude": -70.5414
+        },
+        {
+          "name": "Somerset Plant",
+          "netGeneration": 1052974,
+          "percentage": "0.00%",
+          "latitude": 44.703467,
+          "longitude": -69.647441
+        },
+        {
+          "name": "Bingham Wind",
+          "netGeneration": 981014,
+          "percentage": "100.00%",
+          "latitude": 45.103333,
+          "longitude": -69.761944
+        }
+      ],
+      "state": "ME"
+    },
+    {
+      "plants": [
+        {
+          "name": "Donald C Cook",
+          "netGeneration": 36533290,
+          "percentage": "100.00%",
+          "latitude": 41.975604,
+          "longitude": -86.565206
+        },
+        {
+          "name": "Monroe",
+          "netGeneration": 26407584.57,
+          "percentage": "0.00%",
+          "latitude": 41.8906,
+          "longitude": -83.3464
+        },
+        {
+          "name": "Midland Cogeneration Venture",
+          "netGeneration": 18944817.8,
+          "percentage": "0.00%",
+          "latitude": 43.5861,
+          "longitude": -84.2242
+        },
+        {
+          "name": "New Covert Generating Project",
+          "netGeneration": 14401482,
+          "percentage": "0.00%",
+          "latitude": 42.32238,
+          "longitude": -86.29368
+        },
+        {
+          "name": "J H Campbell",
+          "netGeneration": 13535243.98,
+          "percentage": "0.00%",
+          "latitude": 42.910296,
+          "longitude": -86.20074
+        }
+      ],
+      "state": "MI"
+    },
+    {
+      "plants": [
+        {
+          "name": "Prairie Island",
+          "netGeneration": 18167948,
+          "percentage": "100.00%",
+          "latitude": 44.622,
+          "longitude": -92.6333
+        },
+        {
+          "name": "Sherburne County",
+          "netGeneration": 17505977.93,
+          "percentage": "0.00%",
+          "latitude": 45.3808,
+          "longitude": -93.8931
+        },
+        {
+          "name": "Monticello Nuclear Facility",
+          "netGeneration": 11186628,
+          "percentage": "100.00%",
+          "latitude": 45.3338,
+          "longitude": -93.8493
+        },
+        {
+          "name": "Boswell Energy Center",
+          "netGeneration": 8406753.97,
+          "percentage": "0.00%",
+          "latitude": 47.2611,
+          "longitude": -93.6528
+        },
+        {
+          "name": "Mankato Energy Center",
+          "netGeneration": 5659864,
+          "percentage": "0.00%",
+          "latitude": 44.1988,
+          "longitude": -94.003
+        }
+      ],
+      "state": "MN"
+    },
+    {
+      "plants": [
+        {
+          "name": "Labadie",
+          "netGeneration": 32968984.75,
+          "percentage": "0.00%",
+          "latitude": 38.562244,
+          "longitude": -90.837686
+        },
+        {
+          "name": "Callaway",
+          "netGeneration": 15484240,
+          "percentage": "100.00%",
+          "latitude": 38.758919,
+          "longitude": -91.778841
+        },
+        {
+          "name": "Iatan",
+          "netGeneration": 14069155.96,
+          "percentage": "0.00%",
+          "latitude": 39.4472,
+          "longitude": -94.98
+        },
+        {
+          "name": "Thomas Hill Energy Center",
+          "netGeneration": 13766318.07,
+          "percentage": "0.00%",
+          "latitude": 39.5522,
+          "longitude": -92.6381
+        },
+        {
+          "name": "Rush Island",
+          "netGeneration": 13353610.1,
+          "percentage": "0.00%",
+          "latitude": 38.131248,
+          "longitude": -90.263157
+        }
+      ],
+      "state": "MO"
+    },
+    {
+      "plants": [
+        {
+          "name": "Daniel Electric Generating Plant",
+          "netGeneration": 21558542.09,
+          "percentage": "0.00%",
+          "latitude": 30.5322,
+          "longitude": -88.5553
+        },
+        {
+          "name": "Grand Gulf",
+          "netGeneration": 12941868,
+          "percentage": "100.00%",
+          "latitude": 32.0081,
+          "longitude": -91.0478
+        },
+        {
+          "name": "Magnolia Combined Cycle Plant",
+          "netGeneration": 10620508,
+          "percentage": "0.00%",
+          "latitude": 34.835,
+          "longitude": -89.2026
+        },
+        {
+          "name": "Choctaw County Gen",
+          "netGeneration": 10593796,
+          "percentage": "0.00%",
+          "latitude": 33.2881,
+          "longitude": -89.4201
+        },
+        {
+          "name": "Southaven Combined Cycle Plant",
+          "netGeneration": 9418864,
+          "percentage": "0.00%",
+          "latitude": 34.9939,
+          "longitude": -90.0378
+        }
+      ],
+      "state": "MS"
+    },
+    {
+      "plants": [
+        {
+          "name": "Colstrip",
+          "netGeneration": 15870340.07,
+          "percentage": "0.00%",
+          "latitude": 45.8831,
+          "longitude": -106.614
+        },
+        {
+          "name": "Libby",
+          "netGeneration": 4621762,
+          "percentage": "100.00%",
+          "latitude": 48.4098,
+          "longitude": -115.3143
+        },
+        {
+          "name": "Noxon Rapids",
+          "netGeneration": 3192920,
+          "percentage": "100.00%",
+          "latitude": 47.96048,
+          "longitude": -115.73361
+        },
+        {
+          "name": "Fort Peck",
+          "netGeneration": 2211314,
+          "percentage": "100.00%",
+          "latitude": 48.0122,
+          "longitude": -106.4123
+        },
+        {
+          "name": "Selis Ksanka Qlispe",
+          "netGeneration": 1925638,
+          "percentage": "100.00%",
+          "latitude": 47.6777,
+          "longitude": -114.2339
+        }
+      ],
+      "state": "MT"
+    },
+    {
+      "plants": [
+        {
+          "name": "McGuire",
+          "netGeneration": 38093898,
+          "percentage": "100.00%",
+          "latitude": 35.4331,
+          "longitude": -80.9486
+        },
+        {
+          "name": "Brunswick Nuclear",
+          "netGeneration": 30012440,
+          "percentage": "100.00%",
+          "latitude": 33.9597,
+          "longitude": -78.0114
+        },
+        {
+          "name": "Richmond County Plant",
+          "netGeneration": 17162142.04,
+          "percentage": "0.00%",
+          "latitude": 34.8392,
+          "longitude": -79.7406
+        },
+        {
+          "name": "Harris",
+          "netGeneration": 16551186,
+          "percentage": "100.00%",
+          "latitude": 35.6334,
+          "longitude": -78.9556
+        },
+        {
+          "name": "Marshall",
+          "netGeneration": 12172862.01,
+          "percentage": "0.00%",
+          "latitude": 35.5975,
+          "longitude": -80.9658
+        }
+      ],
+      "state": "NC"
+    },
+    {
+      "plants": [
+        {
+          "name": "Coal Creek",
+          "netGeneration": 16435582.06,
+          "percentage": "0.00%",
+          "latitude": 47.377743,
+          "longitude": -101.157058
+        },
+        {
+          "name": "Antelope Valley",
+          "netGeneration": 11389825.98,
+          "percentage": "0.00%",
+          "latitude": 47.370542,
+          "longitude": -101.83566
+        },
+        {
+          "name": "Milton R Young",
+          "netGeneration": 9335045.98,
+          "percentage": "0.00%",
+          "latitude": 47.065854,
+          "longitude": -101.213093
+        },
+        {
+          "name": "Leland Olds",
+          "netGeneration": 5993644.08,
+          "percentage": "0.00%",
+          "latitude": 47.280769,
+          "longitude": -101.321213
+        },
+        {
+          "name": "Garrison",
+          "netGeneration": 4900790,
+          "percentage": "100.00%",
+          "latitude": 47.4945,
+          "longitude": -101.4115
+        }
+      ],
+      "state": "ND"
+    },
+    {
+      "plants": [
+        {
+          "name": "Nebraska City Station",
+          "netGeneration": 15328494.03,
+          "percentage": "0.00%",
+          "latitude": 40.6214,
+          "longitude": -95.7764
+        },
+        {
+          "name": "Gerald Gentleman Station",
+          "netGeneration": 13934626.01,
+          "percentage": "0.00%",
+          "latitude": 41.0808,
+          "longitude": -101.1408
+        },
+        {
+          "name": "Cooper Nuclear Station",
+          "netGeneration": 12377102,
+          "percentage": "100.00%",
+          "latitude": 40.3628,
+          "longitude": -95.6408
+        },
+        {
+          "name": "North Omaha Station",
+          "netGeneration": 3542982,
+          "percentage": "0.00%",
+          "latitude": 41.32909,
+          "longitude": -95.94466
+        },
+        {
+          "name": "Grande Prairie Wind Farm",
+          "netGeneration": 3104832,
+          "percentage": "100.00%",
+          "latitude": 42.608056,
+          "longitude": -98.428333
+        }
+      ],
+      "state": "NE"
+    },
+    {
+      "plants": [
+        {
+          "name": "Seabrook",
+          "netGeneration": 19730392,
+          "percentage": "100.00%",
+          "latitude": 42.899167,
+          "longitude": -70.848889
+        },
+        {
+          "name": "Granite Ridge Energy",
+          "netGeneration": 6273244,
+          "percentage": "0.00%",
+          "latitude": 42.9042,
+          "longitude": -71.4261
+        },
+        {
+          "name": "Burgess BioPower",
+          "netGeneration": 1029466,
+          "percentage": "0.00%",
+          "latitude": 44.471944,
+          "longitude": -71.175278
+        },
+        {
+          "name": "Newington Energy",
+          "netGeneration": 947114,
+          "percentage": "0.00%",
+          "latitude": 43.1047,
+          "longitude": -70.8061
+        },
+        {
+          "name": "Comerford",
+          "netGeneration": 647408,
+          "percentage": "100.00%",
+          "latitude": 44.325053,
+          "longitude": -72.000975
+        }
+      ],
+      "state": "NH"
+    },
+    {
+      "plants": [
+        {
+          "name": "Salem Generating Station",
+          "netGeneration": 32290872,
+          "percentage": "100.00%",
+          "latitude": 39.4625,
+          "longitude": -75.5358
+        },
+        {
+          "name": "PSEG Hope Creek Generating Station",
+          "netGeneration": 21185394,
+          "percentage": "100.00%",
+          "latitude": 39.4666,
+          "longitude": -75.5377
+        },
+        {
+          "name": "Linden Cogeneration Facility",
+          "netGeneration": 10397088.12,
+          "percentage": "0.00%",
+          "latitude": 40.6322,
+          "longitude": -74.2156
+        },
+        {
+          "name": "Woodbridge Energy Center",
+          "netGeneration": 8888404,
+          "percentage": "0.00%",
+          "latitude": 40.515,
+          "longitude": -74.318889
+        },
+        {
+          "name": "Newark Energy Center",
+          "netGeneration": 8468780,
+          "percentage": "0.00%",
+          "latitude": 40.707222,
+          "longitude": -74.125833
+        }
+      ],
+      "state": "NJ"
+    },
+    {
+      "plants": [
+        {
+          "name": "Four Corners Steam Elec Station",
+          "netGeneration": 15197946.04,
+          "percentage": "0.00%",
+          "latitude": 36.69,
+          "longitude": -108.4814
+        },
+        {
+          "name": "San Juan",
+          "netGeneration": 9503246.03,
+          "percentage": "0.00%",
+          "latitude": 36.8006,
+          "longitude": -108.4386
+        },
+        {
+          "name": "Hobbs Generating Station",
+          "netGeneration": 7579262,
+          "percentage": "0.00%",
+          "latitude": 32.728333,
+          "longitude": -103.309444
+        },
+        {
+          "name": "Luna Energy Facility",
+          "netGeneration": 6607368,
+          "percentage": "0.00%",
+          "latitude": 32.299349,
+          "longitude": -107.7834
+        },
+        {
+          "name": "Cunningham",
+          "netGeneration": 2582596,
+          "percentage": "0.00%",
+          "latitude": 32.7131,
+          "longitude": -103.3533
+        }
+      ],
+      "state": "NM"
+    },
+    {
+      "plants": [
+        {
+          "name": "Chuck Lenzie Generating Station",
+          "netGeneration": 12248536,
+          "percentage": "0.00%",
+          "latitude": 36.383719,
+          "longitude": -114.921779
+        },
+        {
+          "name": "Tracy",
+          "netGeneration": 9259056,
+          "percentage": "0.00%",
+          "latitude": 39.5625,
+          "longitude": -119.525
+        },
+        {
+          "name": "Harry Allen",
+          "netGeneration": 6886414,
+          "percentage": "0.00%",
+          "latitude": 36.430554,
+          "longitude": -114.902405
+        },
+        {
+          "name": "Apex Generating Station",
+          "netGeneration": 5645382,
+          "percentage": "0.00%",
+          "latitude": 36.415999,
+          "longitude": -114.960916
+        },
+        {
+          "name": "Silverhawk",
+          "netGeneration": 5092154,
+          "percentage": "0.00%",
+          "latitude": 36.4078,
+          "longitude": -114.9606
+        }
+      ],
+      "state": "NV"
+    },
+    {
+      "plants": [
+        {
+          "name": "Robert Moses Niagara",
+          "netGeneration": 34956432,
+          "percentage": "100.00%",
+          "latitude": 43.1427,
+          "longitude": -79.0394
+        },
+        {
+          "name": "Nine Mile Point Nuclear Station",
+          "netGeneration": 31281216,
+          "percentage": "100.00%",
+          "latitude": 43.5211,
+          "longitude": -76.41
+        },
+        {
+          "name": "Indian Point 3",
+          "netGeneration": 18217642,
+          "percentage": "100.00%",
+          "latitude": 41.2706,
+          "longitude": -73.9526
+        },
+        {
+          "name": "Robert Moses Power Dam",
+          "netGeneration": 15578998,
+          "percentage": "100.00%",
+          "latitude": 45.0038,
+          "longitude": -74.7994
+        },
+        {
+          "name": "James A Fitzpatrick",
+          "netGeneration": 13177352,
+          "percentage": "100.00%",
+          "latitude": 43.52139,
+          "longitude": -76.408394
+        }
+      ],
+      "state": "NY"
+    },
+    {
+      "plants": [
+        {
+          "name": "Gen J M Gavin",
+          "netGeneration": 26190330.54,
+          "percentage": "0.00%",
+          "latitude": 38.9347,
+          "longitude": -82.1158
+        },
+        {
+          "name": "Perry",
+          "netGeneration": 21981924,
+          "percentage": "100.00%",
+          "latitude": 41.8006,
+          "longitude": -81.1439
+        },
+        {
+          "name": "Hanging Rock Power Company LLC",
+          "netGeneration": 18975312,
+          "percentage": "0.00%",
+          "latitude": 38.5731,
+          "longitude": -82.7833
+        },
+        {
+          "name": "Cardinal",
+          "netGeneration": 18119546.08,
+          "percentage": "0.00%",
+          "latitude": 40.2522,
+          "longitude": -80.6486
+        },
+        {
+          "name": "Davis Besse",
+          "netGeneration": 14456126,
+          "percentage": "100.00%",
+          "latitude": 41.5967,
+          "longitude": -83.0861
+        }
+      ],
+      "state": "OH"
+    },
+    {
+      "plants": [
+        {
+          "name": "Oneta Energy Center",
+          "netGeneration": 12669520.6,
+          "percentage": "0.00%",
+          "latitude": 36.0119,
+          "longitude": -95.6967
+        },
+        {
+          "name": "Chouteau Power Plant",
+          "netGeneration": 12394462,
+          "percentage": "0.00%",
+          "latitude": 36.222058,
+          "longitude": -95.277064
+        },
+        {
+          "name": "Redbud Power Plant",
+          "netGeneration": 11797490,
+          "percentage": "0.00%",
+          "latitude": 35.6856,
+          "longitude": -97.2264
+        },
+        {
+          "name": "Tenaska Kiamichi Generating Station",
+          "netGeneration": 10256516,
+          "percentage": "0.00%",
+          "latitude": 34.6831,
+          "longitude": -95.9349
+        },
+        {
+          "name": "Green Country Energy, LLC",
+          "netGeneration": 8480622,
+          "percentage": "0.00%",
+          "latitude": 35.9833,
+          "longitude": -95.9346
+        }
+      ],
+      "state": "OK"
+    },
+    {
+      "plants": [
+        {
+          "name": "John Day",
+          "netGeneration": 16918362,
+          "percentage": "100.00%",
+          "latitude": 45.71644,
+          "longitude": -120.69408
+        },
+        {
+          "name": "The Dalles",
+          "netGeneration": 13410424,
+          "percentage": "100.00%",
+          "latitude": 45.614,
+          "longitude": -121.1346
+        },
+        {
+          "name": "McNary",
+          "netGeneration": 9993976,
+          "percentage": "100.00%",
+          "latitude": 45.9402,
+          "longitude": -119.2988
+        },
+        {
+          "name": "Bonneville",
+          "netGeneration": 9339532,
+          "percentage": "100.00%",
+          "latitude": 45.6441,
+          "longitude": -121.941009
+        },
+        {
+          "name": "Hermiston Power Plant",
+          "netGeneration": 7912436,
+          "percentage": "0.00%",
+          "latitude": 45.794046,
+          "longitude": -119.313323
+        }
+      ],
+      "state": "OR"
+    },
+    {
+      "plants": [
+        {
+          "name": "Peach Bottom",
+          "netGeneration": 43584668,
+          "percentage": "100.00%",
+          "latitude": 39.758936,
+          "longitude": -76.268742
+        },
+        {
+          "name": "TalenEnergy Susquehanna",
+          "netGeneration": 39981806,
+          "percentage": "100.00%",
+          "latitude": 41.0919,
+          "longitude": -76.1462
+        },
+        {
+          "name": "Limerick",
+          "netGeneration": 38689528,
+          "percentage": "100.00%",
+          "latitude": 40.224303,
+          "longitude": -75.58744
+        },
+        {
+          "name": "Beaver Valley",
+          "netGeneration": 30786786,
+          "percentage": "100.00%",
+          "latitude": 40.6219,
+          "longitude": -80.4336
+        },
+        {
+          "name": "Lackawanna Energy Center",
+          "netGeneration": 18452684,
+          "percentage": "0.00%",
+          "latitude": 41.471389,
+          "longitude": -75.544167
+        }
+      ],
+      "state": "PA"
+    },
+    {
+      "plants": [
+        {
+          "name": "Aguirre Plant",
+          "netGeneration": 8706430.09,
+          "percentage": "0.00%",
+          "latitude": 17.9492,
+          "longitude": -66.234
+        },
+        {
+          "name": "EcoElectrica",
+          "netGeneration": 6772492,
+          "percentage": "0.00%",
+          "latitude": 17.981025,
+          "longitude": -66.75542
+        },
+        {
+          "name": "AES Puerto Rico",
+          "netGeneration": 6131714,
+          "percentage": "0.00%",
+          "latitude": 17.947115,
+          "longitude": -66.1499
+        },
+        {
+          "name": "Central San Juan Plant",
+          "netGeneration": 5970499.94,
+          "percentage": "0.00%",
+          "latitude": 18.4271,
+          "longitude": -66.1045
+        },
+        {
+          "name": "Palo Seco Plant",
+          "netGeneration": 4655246,
+          "percentage": "0.00%",
+          "latitude": 18.4559,
+          "longitude": -66.1484
+        }
+      ],
+      "state": "PR"
+    },
+    {
+      "plants": [
+        {
+          "name": "Rhode Island State Energy Center",
+          "netGeneration": 7229178,
+          "percentage": "0.00%",
+          "latitude": 41.8017,
+          "longitude": -71.5186
+        },
+        {
+          "name": "Tiverton Power, LLC",
+          "netGeneration": 3179474,
+          "percentage": "0.00%",
+          "latitude": 41.6422,
+          "longitude": -71.1706
+        },
+        {
+          "name": "Manchester Street Station",
+          "netGeneration": 3157647.92,
+          "percentage": "0.00%",
+          "latitude": 41.8167,
+          "longitude": -71.4042
+        },
+        {
+          "name": "Ocean State Power",
+          "netGeneration": 1326466.01,
+          "percentage": "0.00%",
+          "latitude": 42.009722,
+          "longitude": -71.668909
+        },
+        {
+          "name": "Ocean State Power II",
+          "netGeneration": 1266183.99,
+          "percentage": "0.00%",
+          "latitude": 42.0099,
+          "longitude": -71.6701
+        }
+      ],
+      "state": "RI"
+    },
+    {
+      "plants": [
+        {
+          "name": "Oconee",
+          "netGeneration": 43084534,
+          "percentage": "100.00%",
+          "latitude": 34.7939,
+          "longitude": -82.8986
+        },
+        {
+          "name": "Catawba",
+          "netGeneration": 38713340,
+          "percentage": "100.00%",
+          "latitude": 35.0514,
+          "longitude": -81.0694
+        },
+        {
+          "name": "V C Summer",
+          "netGeneration": 15455050,
+          "percentage": "100.00%",
+          "latitude": 34.2983,
+          "longitude": -81.3153
+        },
+        {
+          "name": "Cross",
+          "netGeneration": 12452350.09,
+          "percentage": "0.00%",
+          "latitude": 33.371506,
+          "longitude": -80.113235
+        },
+        {
+          "name": "H B Robinson",
+          "netGeneration": 12249252,
+          "percentage": "100.00%",
+          "latitude": 34.4017,
+          "longitude": -80.1589
+        }
+      ],
+      "state": "SC"
+    },
+    {
+      "plants": [
+        {
+          "name": "Oahe",
+          "netGeneration": 5596076,
+          "percentage": "100.00%",
+          "latitude": 44.4504,
+          "longitude": -100.3866
+        },
+        {
+          "name": "Fort Randall",
+          "netGeneration": 4014656,
+          "percentage": "100.00%",
+          "latitude": 43.0653,
+          "longitude": -98.5539
+        },
+        {
+          "name": "Big Stone",
+          "netGeneration": 3300270.01,
+          "percentage": "0.00%",
+          "latitude": 45.303652,
+          "longitude": -96.510067
+        },
+        {
+          "name": "Big Bend Dam",
+          "netGeneration": 2044194,
+          "percentage": "100.00%",
+          "latitude": 44.0384,
+          "longitude": -99.4463
+        },
+        {
+          "name": "Crowned Ridge Wind Energy Center",
+          "netGeneration": 1619126,
+          "percentage": "100.00%",
+          "latitude": 45.154947,
+          "longitude": -96.836839
+        }
+      ],
+      "state": "SD"
+    },
+    {
+      "plants": [
+        {
+          "name": "Sequoyah",
+          "netGeneration": 38198378,
+          "percentage": "100.00%",
+          "latitude": 35.2267,
+          "longitude": -85.0917
+        },
+        {
+          "name": "Watts Bar Nuclear Plant",
+          "netGeneration": 35178012,
+          "percentage": "100.00%",
+          "latitude": 35.6021,
+          "longitude": -84.7895
+        },
+        {
+          "name": "Cumberland",
+          "netGeneration": 19054837.95,
+          "percentage": "0.00%",
+          "latitude": 36.3903,
+          "longitude": -87.6539
+        },
+        {
+          "name": "John Sevier",
+          "netGeneration": 10032866,
+          "percentage": "0.00%",
+          "latitude": 36.3767,
+          "longitude": -82.9639
+        },
+        {
+          "name": "Lagoon Creek",
+          "netGeneration": 7528747.99,
+          "percentage": "0.00%",
+          "latitude": 35.6578,
+          "longitude": -89.3964
+        }
+      ],
+      "state": "TN"
+    },
+    {
+      "plants": [
+        {
+          "name": "South Texas Project",
+          "netGeneration": 43917514,
+          "percentage": "100.00%",
+          "latitude": 28.795,
+          "longitude": -96.0481
+        },
+        {
+          "name": "Comanche Peak",
+          "netGeneration": 38959896,
+          "percentage": "100.00%",
+          "latitude": 32.298365,
+          "longitude": -97.785515
+        },
+        {
+          "name": "Oak Grove",
+          "netGeneration": 26211611.51,
+          "percentage": "0.00%",
+          "latitude": 31.1803,
+          "longitude": -96.4866
+        },
+        {
+          "name": "Martin Lake",
+          "netGeneration": 25763022.09,
+          "percentage": "0.00%",
+          "latitude": 32.2606,
+          "longitude": -94.5706
+        },
+        {
+          "name": "W A Parish",
+          "netGeneration": 21620380,
+          "percentage": "0.00%",
+          "latitude": 29.4828,
+          "longitude": -95.6311
+        }
+      ],
+      "state": "TX"
+    },
+    {
+      "plants": [
+        {
+          "name": "Hunter",
+          "netGeneration": 15976405.92,
+          "percentage": "0.00%",
+          "latitude": 39.1747,
+          "longitude": -111.0289
+        },
+        {
+          "name": "Intermountain",
+          "netGeneration": 13523878.09,
+          "percentage": "0.00%",
+          "latitude": 39.509731,
+          "longitude": -112.58018
+        },
+        {
+          "name": "Lake Side Power Plant",
+          "netGeneration": 11120224,
+          "percentage": "0.00%",
+          "latitude": 40.331667,
+          "longitude": -111.754167
+        },
+        {
+          "name": "Huntington",
+          "netGeneration": 9030610.05,
+          "percentage": "0.00%",
+          "latitude": 39.3792,
+          "longitude": -111.0781
+        },
+        {
+          "name": "Bonanza",
+          "netGeneration": 6515161.98,
+          "percentage": "0.00%",
+          "latitude": 40.0864,
+          "longitude": -109.2844
+        }
+      ],
+      "state": "UT"
+    },
+    {
+      "plants": [
+        {
+          "name": "North Anna",
+          "netGeneration": 31600086,
+          "percentage": "100.00%",
+          "latitude": 38.06,
+          "longitude": -77.7897
+        },
+        {
+          "name": "Surry",
+          "netGeneration": 28680302,
+          "percentage": "100.00%",
+          "latitude": 37.1661,
+          "longitude": -76.6986
+        },
+        {
+          "name": "Greensville County Power Station",
+          "netGeneration": 21351730,
+          "percentage": "0.00%",
+          "latitude": 36.718236,
+          "longitude": -77.649559
+        },
+        {
+          "name": "Brunswick County Power Station",
+          "netGeneration": 19927268,
+          "percentage": "0.00%",
+          "latitude": 36.765,
+          "longitude": -77.713889
+        },
+        {
+          "name": "Warren County Power Station",
+          "netGeneration": 18198932,
+          "percentage": "0.00%",
+          "latitude": 38.971667,
+          "longitude": -78.177222
+        }
+      ],
+      "state": "VA"
+    },
+    {
+      "plants": [
+        {
+          "name": "J C McNeil",
+          "netGeneration": 459450,
+          "percentage": "0.00%",
+          "latitude": 44.4917,
+          "longitude": -73.208056
+        },
+        {
+          "name": "Bellows Falls",
+          "netGeneration": 445248,
+          "percentage": "100.00%",
+          "latitude": 43.1375,
+          "longitude": -72.4464
+        },
+        {
+          "name": "Kingdom Community Wind",
+          "netGeneration": 337548,
+          "percentage": "100.00%",
+          "latitude": 44.748333,
+          "longitude": -72.425278
+        },
+        {
+          "name": "Ryegate Associates",
+          "netGeneration": 323038,
+          "percentage": "0.00%",
+          "latitude": 44.2131,
+          "longitude": -72.0572
+        },
+        {
+          "name": "Wilder",
+          "netGeneration": 303146,
+          "percentage": "100.00%",
+          "latitude": 43.667927,
+          "longitude": -72.303642
+        }
+      ],
+      "state": "VT"
+    },
+    {
+      "plants": [
+        {
+          "name": "Grand Coulee",
+          "netGeneration": 40580344,
+          "percentage": "100.00%",
+          "latitude": 47.957511,
+          "longitude": -118.977323
+        },
+        {
+          "name": "Chief Joseph",
+          "netGeneration": 23726406,
+          "percentage": "100.00%",
+          "latitude": 47.9951,
+          "longitude": -119.6404
+        },
+        {
+          "name": "Columbia Generating Station",
+          "netGeneration": 18854100,
+          "percentage": "100.00%",
+          "latitude": 46.4711,
+          "longitude": -119.3339
+        },
+        {
+          "name": "Rocky Reach",
+          "netGeneration": 11792334,
+          "percentage": "100.00%",
+          "latitude": 47.533611,
+          "longitude": -120.295278
+        },
+        {
+          "name": "Centralia",
+          "netGeneration": 10298073.91,
+          "percentage": "0.00%",
+          "latitude": 46.755938,
+          "longitude": -122.859764
+        }
+      ],
+      "state": "WA"
+    },
+    {
+      "plants": [
+        {
+          "name": "Point Beach Nuclear Plant",
+          "netGeneration": 19541996,
+          "percentage": "100.00%",
+          "latitude": 44.2806,
+          "longitude": -87.5369
+        },
+        {
+          "name": "Port Washington Generating Station",
+          "netGeneration": 16668866,
+          "percentage": "0.00%",
+          "latitude": 43.3842,
+          "longitude": -87.8689
+        },
+        {
+          "name": "Elm Road Generating Station",
+          "netGeneration": 15495577.98,
+          "percentage": "0.00%",
+          "latitude": 42.8492,
+          "longitude": -87.8336
+        },
+        {
+          "name": "Columbia",
+          "netGeneration": 10373809.92,
+          "percentage": "0.00%",
+          "latitude": 43.4864,
+          "longitude": -89.4203
+        },
+        {
+          "name": "Fox Energy Center",
+          "netGeneration": 8949314,
+          "percentage": "0.00%",
+          "latitude": 44.3204,
+          "longitude": -88.208889
+        }
+      ],
+      "state": "WI"
+    },
+    {
+      "plants": [
+        {
+          "name": "Harrison Power Station",
+          "netGeneration": 21759429.59,
+          "percentage": "0.00%",
+          "latitude": 39.384167,
+          "longitude": -80.3325
+        },
+        {
+          "name": "John E Amos",
+          "netGeneration": 20901677.98,
+          "percentage": "0.00%",
+          "latitude": 38.4731,
+          "longitude": -81.8233
+        },
+        {
+          "name": "Mountaineer (1301)",
+          "netGeneration": 10550025.96,
+          "percentage": "0.00%",
+          "latitude": 38.9794,
+          "longitude": -81.9344
+        },
+        {
+          "name": "Fort Martin Power Station",
+          "netGeneration": 10147864.06,
+          "percentage": "0.00%",
+          "latitude": 39.710833,
+          "longitude": -79.9275
+        },
+        {
+          "name": "Longview Power",
+          "netGeneration": 9899713.97,
+          "percentage": "0.00%",
+          "latitude": 39.707893,
+          "longitude": -79.958974
+        }
+      ],
+      "state": "WV"
+    },
+    {
+      "plants": [
+        {
+          "name": "Jim Bridger",
+          "netGeneration": 20917150.32,
+          "percentage": "0.00%",
+          "latitude": 41.7378,
+          "longitude": -108.7875
+        },
+        {
+          "name": "Laramie River",
+          "netGeneration": 16034684.08,
+          "percentage": "0.00%",
+          "latitude": 42.108889,
+          "longitude": -104.8825
+        },
+        {
+          "name": "Dave Johnston",
+          "netGeneration": 8651207.95,
+          "percentage": "0.00%",
+          "latitude": 42.8378,
+          "longitude": -105.7769
+        },
+        {
+          "name": "Dry Fork Station",
+          "netGeneration": 6410739.92,
+          "percentage": "0.00%",
+          "latitude": 44.388889,
+          "longitude": -105.460833
+        },
+        {
+          "name": "Naughton",
+          "netGeneration": 5318066.06,
+          "percentage": "0.00%",
+          "latitude": 41.7581,
+          "longitude": -110.5983
+        }
+      ],
+      "state": "WY"
+    }
+  ]
+}
